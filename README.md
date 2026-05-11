@@ -73,3 +73,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+
+how actually the application look like 
+
+<img width="1913" height="891" alt="Screenshot 2025-10-07 094412" src="https://github.com/user-attachments/assets/6f6d7e4c-774b-45b7-b874-267c2623ed0a" />
+ 
+
